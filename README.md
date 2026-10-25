@@ -107,7 +107,7 @@ project-13/
 - `graph.py` — Defines the LangGraph workflow and connects its nodes.
 - `nodes.py` — Contains all the nodes of the graph.
 - `.env` — Stores local environment variables and API credentials.
-- `.env.example` — Example environment file to add your own API key.
+- `.env.example` — Example environment file to add your own GNews API key.
 - `.gitignore` — Excludes sensitive files and other files that should not be tracked.
 - `requirements.txt` — Lists the Python dependencies.
 
